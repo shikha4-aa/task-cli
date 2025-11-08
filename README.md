@@ -26,12 +26,13 @@
 
 ## Project Structure
 
-task-tracker-cli/
+📁 task-cli/
 │
-├── tasks.json # Stores all the tasks
-├── index.js # Main CLI file
-├── package.json # Project metadata
-└── README.md # Documentation
+├── 📄 data.json         # Stores all the tasks
+├── ⚙️ index.js           # Main CLI file
+├── 📦 package.json       # Project metadata
+└── 📝 README.md          # Documentation
+
 
 
 ---
